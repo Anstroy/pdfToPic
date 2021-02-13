@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gm": "^1.23.1",
-    "pdf-poppler": "^0.2.1",
-    "pdf2pic": "^2.1.4"
+    "pdf-poppler": "^0.2.1"
   }
 }
