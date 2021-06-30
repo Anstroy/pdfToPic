@@ -12,6 +12,7 @@ let opts = {
 
 pdf.convert(file, opts)
     .then(res => {
+        console.log('res', res)
         console.log('Successfully converted');
     })
     .catch(error => {
